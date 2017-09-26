@@ -1,0 +1,3 @@
+\contentsline {section}{\numberline {1}Plot tte vortices at each second (1, 2, ... 5), color the positive blobs differently from the negative ones.}{3}
+\contentsline {section}{\numberline {2}Plot the velocity field around the cylinder at the final time (at least). Show the region (-2,-2) to (2,2) and also plot the region (0,0), (2,2) to show just the separated region.}{6}
+\contentsline {section}{\numberline {3}Smooth the vortex momentum using running averages take the derivative and plot $C_D$ vs time for the simulation.}{12}
